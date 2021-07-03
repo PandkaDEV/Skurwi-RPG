@@ -12,6 +12,8 @@ public class Main extends JavaPlugin {
 
     public void onEnable(){
 
+        //SIEMA KURWO
+
         plugin = API.createApiPlugin(this);
         ApiConfig config = plugin.getConfig();
         config.load(false);
