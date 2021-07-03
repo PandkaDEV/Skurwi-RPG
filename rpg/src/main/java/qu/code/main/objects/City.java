@@ -15,6 +15,14 @@ public class City {
         this.id = id;
     }
 
+    public boolean containsHierarchyLevel(User user){
+        return hierarchyMap.get(user) != null;
+    }
+
+    public CityHierarchy getHierarchyLevel(User user){
+        return hierarchyMap.get(user);
+    }
+
     public void save(){
 
     }
