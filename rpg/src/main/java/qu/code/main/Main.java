@@ -5,6 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import qu.code.api.API;
 import qu.code.api.objects.ApiConfig;
 import qu.code.api.objects.ApiPlugin;
+import qu.code.main.objects.City;
 
 public class Main extends JavaPlugin {
 
@@ -14,6 +15,8 @@ public class Main extends JavaPlugin {
 
         //SIEMA KURWO seeoe dedede dede dede
 
+
+        City city = new City(1);
         plugin = API.createApiPlugin(this);
         ApiConfig config = plugin.getConfig();
         config.load(false);
