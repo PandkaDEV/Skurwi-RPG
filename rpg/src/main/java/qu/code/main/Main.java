@@ -12,7 +12,7 @@ public class Main extends JavaPlugin {
 
     public void onEnable(){
 
-        //SIEMA KURWO
+        //SIEMA KURWO seeoe
 
         plugin = API.createApiPlugin(this);
         ApiConfig config = plugin.getConfig();
