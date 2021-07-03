@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Skurwi-RPG.iml" filepath="$PROJECT_DIR$/.idea/Skurwi-RPG.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/rpg/rpg.iml" filepath="$PROJECT_DIR$/rpg/rpg.iml" />
+=======
+>>>>>>> c4c1d11e8267237f831bf71382c265b121983eaa
     </modules>
   </component>
 </project>

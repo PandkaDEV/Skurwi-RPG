@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="QuCode-API (1)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/QuCode-API (1).jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/annotations-16.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
