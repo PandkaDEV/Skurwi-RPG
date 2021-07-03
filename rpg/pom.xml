@@ -8,11 +8,4 @@
     <artifactId>rpg</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <repositories>
-        <repository>
-            <id>papermc</id>
-            <url>https://papermc.io/repo/repository/maven-public/</url>
-        </repository>
-    </repositories>
-
 </project>
