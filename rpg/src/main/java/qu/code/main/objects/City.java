@@ -11,4 +11,12 @@ public class City {
 
     protected final Map<User, CityHierarchy> hierarchyMap = Maps.newLinkedHashMap();
 
+    public City(int id){
+        this.id = id;
+    }
+
+    public void save(){
+
+    }
+
 }
